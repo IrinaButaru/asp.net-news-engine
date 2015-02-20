@@ -1,0 +1,10 @@
+C:\Users\Irina.B\Desktop\DAW\Laborator\engine_stiri_1\engine_stiri_1\bin\engine_stiri_1.dll
+C:\Users\Irina.B\Desktop\DAW\Laborator\engine_stiri_1\engine_stiri_1\bin\engine_stiri_1.pdb
+C:\Users\Irina.B\Desktop\DAW\Laborator\engine_stiri_1\engine_stiri_1\obj\Debug\engine_stiri_1.dll
+C:\Users\Irina.B\Desktop\DAW\Laborator\engine_stiri_1\engine_stiri_1\obj\Debug\engine_stiri_1.pdb
+C:\Documents and Settings\Student\Desktop\engine_stiri_1\engine_stiri_1\bin\engine_stiri_1.dll
+C:\Documents and Settings\Student\Desktop\engine_stiri_1\engine_stiri_1\bin\engine_stiri_1.pdb
+C:\Documents and Settings\Student\Desktop\engine_stiri_1\engine_stiri_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Student\Desktop\engine_stiri_1\engine_stiri_1\obj\Debug\engine_stiri_1.dll
+C:\Documents and Settings\Student\Desktop\engine_stiri_1\engine_stiri_1\obj\Debug\engine_stiri_1.pdb
+C:\Users\Irina.B\Desktop\DAW\Laborator\engine_stiri_1\engine_stiri_1\obj\Debug\engine_stiri_1.csprojResolveAssemblyReference.cache
